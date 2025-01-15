@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**GREATVICKI/GREATVICKI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## This is Victory Adaghosa
 
-Here are some ideas to get you started:
+## I am a Data Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- I love to clean,transform,model and analyze data for business insights and forecast.
+- 🔭 I’m currently working on several projects to challenge myself and enhance growth of my Data Analysis skills.
+- 👯 I’m looking to collaborate with companies,organizations,and even individuals to solve their problems using data as a veritable tool.
+- 🤔 I’m open for Data Analysis Role.
+- 💬 Ask me anything Data and I'd respond promptly.Power BI is my forte.
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: She
+- ⚡ Fun fact: I love exploring new terrains and I'm open to growth.
+  
+### My Tools:
+-Microsoft Excel
+-Structured Query Language (SQL)
+-Tableau
+-Power BI
