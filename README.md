@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate with companies,organizations,and even individuals to solve their problems using data as a veritable tool.
 - 🤔 I’m open for Data Analysis Role.
 - 💬 Ask me anything Data and I'd respond promptly.Power BI is my forte.
-- 📫 How to reach me: ...
+- 📫 How to reach me: Linkedin
 - 😄 Pronouns: She
 - ⚡ Fun fact: I love exploring new terrains and I'm open to growth.
   
